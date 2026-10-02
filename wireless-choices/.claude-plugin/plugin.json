@@ -9,6 +9,12 @@
     "url": "https://wirelesschoices.com.au"
   },
   "homepage": "https://wirelesschoices.com.au/tools/ai-assistants",
+  "repository": "https://github.com/wireless-choices/claude-plugins",
   "license": "MIT",
+  "icon": "./logo.png",
+  "documentationUrl": "https://wirelesschoices.com.au/tools/ai-assistants",
+  "supportUrl": "https://wirelesschoices.com.au/contact",
+  "privacyPolicyUrl": "https://wirelesschoices.com.au/privacy-policy#ai-assistants",
+  "termsOfServiceUrl": "https://wirelesschoices.com.au/terms-of-service",
   "keywords": ["australia", "telco", "mobile plans", "nbn", "prepaid", "comparison", "wireless choices"]
 }
