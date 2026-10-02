@@ -1,0 +1,14 @@
+{
+  "name": "wireless-choices",
+  "displayName": "Wireless Choices",
+  "version": "1.0.0",
+  "description": "Search and compare Australian mobile, prepaid, mobile broadband and nbn home internet plans listed on Wireless Choices, each with its last-updated date and a link to its plan page.",
+  "author": {
+    "name": "Wireless Choices",
+    "email": "contact@wirelesschoices.com",
+    "url": "https://wirelesschoices.com.au"
+  },
+  "homepage": "https://wirelesschoices.com.au/tools/ai-assistants",
+  "license": "MIT",
+  "keywords": ["australia", "telco", "mobile plans", "nbn", "prepaid", "comparison", "wireless choices"]
+}

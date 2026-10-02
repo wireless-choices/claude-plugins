@@ -1,0 +1,23 @@
+{
+  "name": "wirelesschoices",
+  "owner": {
+    "name": "Wireless Choices",
+    "email": "contact@wirelesschoices.com"
+  },
+  "metadata": {
+    "description": "Plugins from Wireless Choices, an Australian telco plan comparison site.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "wireless-choices",
+      "source": "./wireless-choices",
+      "description": "Search and compare Australian mobile, prepaid, mobile broadband and nbn plans listed on Wireless Choices, each with its last-updated date and a link to its plan page.",
+      "version": "1.0.0",
+      "author": { "name": "Wireless Choices" },
+      "homepage": "https://wirelesschoices.com.au/tools/ai-assistants",
+      "keywords": ["australia", "telco", "mobile plans", "nbn", "comparison"],
+      "category": "productivity"
+    }
+  ]
+}
