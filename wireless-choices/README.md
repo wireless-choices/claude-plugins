@@ -4,7 +4,7 @@ Search and compare Australian mobile, prepaid, mobile broadband and nbn home int
 
 ## What it does
 
-- `search_plans` — filter by price, included data, network, speed tier, contract and features such as 5G, eSIM, data rollover and international calls. Up to five results per search, with the total number of matching plans stated.
+- `search_plans` — filter by price, included data, network, speed tier, contract and features such as 5G, eSIM, data rollover and international calls. Up to ten results per search, with the total number of matching plans stated; the next results can be requested, up to the first 50 matches.
 - `get_plan` — one plan in detail, including inclusions and the promotion terms recorded for it on Wireless Choices.
 - `compare_plans` — two to four plans side by side.
 - `list_providers` — the providers listed on Wireless Choices and the network each sells access to.
