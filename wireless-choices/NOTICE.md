@@ -10,8 +10,8 @@ The plugin manifest, server declaration, README and this notice are licensed und
 
 ## Copyright
 
-© 2026 Wireless Choices Pty Ltd. The Wireless Choices catalogue, the compilation of plan data it contains and the content of wirelesschoices.com.au are protected by copyright under the Copyright Act 1968 (Cth). All rights reserved.
+© 2026 Wireless Choices Pty Ltd. The Wireless Choices catalogue, the compilation of plan data it contains, the Wireless Choices outage report data and archive, and the content of wirelesschoices.com.au are protected by copyright under the Copyright Act 1968 (Cth). All rights reserved. Outage register entries are published by each carrier under the ACMA outage-register rules and are attributed to that carrier.
 
 ## Trade marks
 
-Wireless Choices® is a registered trade mark of Wireless Choices Pty Ltd in Australia. Claude and Claude Code are trademarks of Anthropic, PBC. Wireless Choices is not affiliated with, sponsored by or endorsed by Anthropic. Provider and network names are the trade marks of their respective owners and are used only to identify their plans.
+Wireless Choices® is a registered trade mark of Wireless Choices Pty Ltd in Australia. Claude and Claude Code are trademarks of Anthropic, PBC. Wireless Choices is not affiliated with, sponsored by or endorsed by Anthropic. Provider and network names are the trade marks of their respective owners and are used only to identify their plans and their published outage records.

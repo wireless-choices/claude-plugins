@@ -1,8 +1,8 @@
 {
   "name": "wireless-choices",
   "displayName": "Wireless Choices",
-  "version": "1.0.0",
-  "description": "Search and compare Australian mobile, prepaid, mobile broadband and nbn home internet plans listed on Wireless Choices, each with its last-updated date and a link to its plan page.",
+  "version": "1.1.0",
+  "description": "Search and compare Australian mobile, prepaid, mobile broadband and nbn home internet plans listed on Wireless Choices, each with its last-updated date and a link to its plan page, and check community outage reports and resolved carrier outage history for Australian providers.",
   "author": {
     "name": "Wireless Choices",
     "email": "contact@wirelesschoices.com",
@@ -16,5 +16,14 @@
   "supportUrl": "https://wirelesschoices.com.au/contact",
   "privacyPolicyUrl": "https://wirelesschoices.com.au/privacy-policy#ai-assistants",
   "termsOfServiceUrl": "https://wirelesschoices.com.au/terms-of-service",
-  "keywords": ["australia", "telco", "mobile plans", "nbn", "prepaid", "comparison", "wireless choices"]
+  "keywords": [
+    "australia",
+    "telco",
+    "mobile plans",
+    "nbn",
+    "prepaid",
+    "comparison",
+    "wireless choices",
+    "outages"
+  ]
 }
